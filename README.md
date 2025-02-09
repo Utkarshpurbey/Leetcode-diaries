@@ -10,5 +10,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0485-max-consecutive-ones) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
