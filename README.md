@@ -7,4 +7,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0007-reverse-integer) |
+## Array
+|  |
+| ------- |
+| [0485-max-consecutive-ones](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0485-max-consecutive-ones) |
 <!---LeetCode Topics End-->
