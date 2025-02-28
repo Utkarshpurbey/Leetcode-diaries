@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0560-subarray-sum-equals-k) |
@@ -23,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0283-move-zeroes) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -49,4 +51,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/1016-subarray-sums-divisible-by-k) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
