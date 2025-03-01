@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0560-subarray-sum-equals-k) |
+| [0792-binary-search](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0792-binary-search) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/1016-subarray-sums-divisible-by-k) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Two Pointers
@@ -55,4 +56,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0075-sort-colors) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
