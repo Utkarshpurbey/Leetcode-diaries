@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0485-max-consecutive-ones) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0792-binary-search) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -63,5 +64,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0035-search-insert-position) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
