@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0540-single-element-in-a-sorted-array](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/1016-subarray-sums-divisible-by-k) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Two Pointers
@@ -76,4 +77,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0162-find-peak-element](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0882-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
