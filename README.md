@@ -83,10 +83,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0151-reverse-words-in-a-string) |
 | [2032-largest-odd-number-in-string](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/2032-largest-odd-number-in-string) |
 ## Greedy
 |  |
 | ------- |
 | [2032-largest-odd-number-in-string](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/2032-largest-odd-number-in-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
