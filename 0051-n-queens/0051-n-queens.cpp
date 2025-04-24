@@ -2,27 +2,9 @@ class Solution {
 public:
     vector<vector<string>> result;
     int N;
-    bool isValid(vector<string> board, int row, int col) {
-        // check up-wards
-        for (int i = row-1; i >= 0; i--) {
-            if (board[i][col] == 'Q') {
-                return false;
-            }
-        }
-
-        // check left diagonal
-        for (int i = row-1, j = col - 1; i >= 0 && j >= 0; i--, j--) {
-            if (board[i][j] == 'Q') {
-                return false;
-            }
-        }
-        for (int i = row-1, j = col + 1; i >= 0 && j < N; i--, j++) {
-            if (board[i][j] == 'Q') {
-                return false;
-            }
-        }
-        return true;
-    }
+    unordered_set<int> column;
+    unordered_set<int> dia;
+    unordered_set<int> antiDia;
     void solve(vector<string> &board, int row) {
         if (row >= N) {
             result.push_back(board);
@@ -30,12 +12,28 @@ public:
         }
 
         for (int col = 0; col < N; col++) {
-            if (isValid(board, row, col)) {
-                board[row][col] = 'Q';  // place the queen;
-                solve(board, row + 1);
-                board[row][col] = '.';
+            int diaConstant = row+col;
+            int antiDiaConstant = row-col;
+
+            // check is Safe
+            if(column.find(col)!=column.end() ||dia.find(diaConstant)!=dia.end() || antiDia.find(antiDiaConstant)!=antiDia.end() ){
+                continue;
             }
-        }
+
+            // safer position 
+              board[row][col] = 'Q';  // place the queen;
+              // update the sets 
+              column.insert(col);
+              dia.insert(diaConstant);
+              antiDia.insert(antiDiaConstant);
+              // ask recursion to find more options
+              solve(board, row + 1);
+              // undo the changes its your responsibility 
+              board[row][col] = '.';
+              column.erase(col);
+              dia.erase(diaConstant);
+              antiDia.erase(antiDiaConstant);
+        }  
     }
     vector<vector<string>> solveNQueens(int n) {
         N= n;
