@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0882-peak-index-in-a-mountain-array](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/1016-subarray-sums-divisible-by-k) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -49,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/1016-subarray-sums-divisible-by-k) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## Simulation
 |  |
 | ------- |
@@ -118,4 +120,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0090-subsets-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/2856-count-complete-subarrays-in-an-array) |
 <!---LeetCode Topics End-->
