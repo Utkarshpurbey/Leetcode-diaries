@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0041-first-missing-positive) |
+| [0051-n-queens](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -111,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
