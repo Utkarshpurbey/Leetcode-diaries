@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0041-first-missing-positive) |
 | [0242-valid-anagram](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0560-subarray-sum-equals-k) |
@@ -104,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0014-longest-common-prefix) |
 | [0079-word-search](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0125-valid-palindrome) |
@@ -143,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0209-minimum-size-subarray-sum) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## Depth-First Search
