@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0007-reverse-integer](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0069-sqrtx) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0150-evaluate-reverse-polish-notation) |
 | [2032-largest-odd-number-in-string](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/2032-largest-odd-number-in-string) |
 ## Array
 |  |
@@ -26,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0090-subsets-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -133,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0155-min-stack) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Backtracking
