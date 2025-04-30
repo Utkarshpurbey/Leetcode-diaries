@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0075-sort-colors) |
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0383-ransom-note) |
 | [0560-subarray-sum-equals-k](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0560-subarray-sum-equals-k) |
@@ -90,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0242-valid-anagram) |
 ## Binary Search
@@ -113,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0151-reverse-words-in-a-string) |
