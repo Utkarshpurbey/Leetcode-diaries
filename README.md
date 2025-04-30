@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0041-first-missing-positive) |
 | [0242-valid-anagram](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0383-ransom-note) |
 | [0560-subarray-sum-equals-k](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/1016-subarray-sums-divisible-by-k) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -116,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0392-is-subsequence) |
 | [0812-rotate-string](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0812-rotate-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -169,4 +171,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0155-min-stack) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
