@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0283-move-zeroes) |
@@ -70,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0383-ransom-note) |
@@ -85,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -104,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0242-valid-anagram) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Search
@@ -201,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0383-ransom-note) |
 ## Tree
 |  |
