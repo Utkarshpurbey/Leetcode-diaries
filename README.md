@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0007-reverse-integer](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0189-rotate-array) |
 | [2032-largest-odd-number-in-string](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/2032-largest-odd-number-in-string) |
 ## Array
 |  |
@@ -38,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0162-find-peak-element](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0283-move-zeroes) |
@@ -61,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0392-is-subsequence) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/2271-rearrange-array-elements-by-sign) |
