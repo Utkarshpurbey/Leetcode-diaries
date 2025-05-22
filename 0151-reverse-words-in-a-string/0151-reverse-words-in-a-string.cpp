@@ -1,40 +1,33 @@
 class Solution {
 public:
-  string reverseWords(string s) {
-    int n = s.size();
-    string ans;
-    vector<string> words;
-    string temp = "";
-
-    for (int i = 0; i < n; i++) {
-        if (s[i] == ' ') {
-            if (temp.size() > 0) {
-                words.push_back(temp);
-                temp = "";
-            } else {
-                continue;
+    string reverseWords(string s) {
+        vector<string>ans;
+        string temp;
+        for(int i =0;i<s.size();i++){
+            if(s[i] == ' '){
+                if(temp.size()>0){
+                    ans.push_back(temp);
+                    temp = "";
+                }
+            }else if(isalpha(s[i]) || isdigit(s[i])){
+                temp+=s[i];
             }
-        } else {
-            temp += s[i];
         }
-    }
-
-    if (temp.size() > 0) {
-        words.push_back(temp);
-        temp = "";
-    }
-
-    reverse(words.begin(), words.end());
-
-    int m = words.size();
-    for (int i = 0; i < m; i++) {
-        if (i == m - 1) {
-            ans += words[i];
-        } else {
-            ans += words[i] + " ";
+        if(temp.size()>0) {
+            ans.push_back(temp);
+            temp="";
         }
-    }
+        reverse(ans.begin(),ans.end());
 
-    return ans;
-}
+       int m = ans.size();
+        for (int i = 0; i < m; i++) {
+            if (i == m - 1) {
+                temp += ans[i];
+            } else {
+                temp += ans[i] + " ";
+            }
+        }
+
+        return temp;
+    }
 };
