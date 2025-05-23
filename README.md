@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0150-evaluate-reverse-polish-notation) |
