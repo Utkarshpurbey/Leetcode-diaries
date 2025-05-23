@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -101,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0392-is-subsequence) |
@@ -159,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [2032-largest-odd-number-in-string](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/2032-largest-odd-number-in-string) |
 ## Trie
