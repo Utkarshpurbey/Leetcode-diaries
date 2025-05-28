@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0069-sqrtx](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0202-happy-number) |
 | [2032-largest-odd-number-in-string](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/2032-largest-odd-number-in-string) |
 ## Array
 |  |
@@ -71,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0392-is-subsequence) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -85,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0041-first-missing-positive](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0383-ransom-note) |
