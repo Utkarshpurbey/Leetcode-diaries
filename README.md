@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0090-subsets-ii) |
+| [0118-pascals-triangle](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -110,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0055-jump-game) |
+| [0118-pascals-triangle](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0392-is-subsequence) |
