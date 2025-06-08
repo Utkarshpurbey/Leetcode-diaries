@@ -1,26 +1,23 @@
 class Solution {
 public:
-    void helper(int i ,int n,int curr_sum,int target,vector<int>arr,vector<int>temp,vector<vector<int>>&ans){
-        if(i>=n || curr_sum == target ){
-            if(target == curr_sum){
-                ans.push_back(temp);
-            }
+    void helper(int i ,vector<int>arr ,int sum,int target,vector<int>temp,vector<vector<int>> &ans){
+        if(i>=arr.size()){
+            if(sum == target) ans.push_back(temp);
             return;
         }
-        if(curr_sum + arr[i] <= target){
+        if(arr[i]+sum<=target){
             temp.push_back(arr[i]);
-            curr_sum+=arr[i];
-            helper(i,n,curr_sum,target,arr,temp,ans);
+            sum+=arr[i];
+            helper(i,arr,sum,target,temp,ans);
             temp.pop_back();
-            curr_sum-=arr[i];
+            sum-=arr[i];
         }
-        helper(i+1,n,curr_sum,target,arr,temp,ans);
-
+        helper(i+1,arr,sum,target,temp,ans);
     }
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
         vector<vector<int>> ans;
-        int n = candidates.size();
-        helper(0,n,0,target,candidates,{},ans);
+        // call the helper function
+        helper(0,candidates,0,target,{},ans);
         return ans;
     }
 };
