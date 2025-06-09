@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0485-max-consecutive-ones](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0560-subarray-sum-equals-k) |
+| [0747-min-cost-climbing-stairs](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -121,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0392-is-subsequence) |
+| [0747-min-cost-climbing-stairs](https://github.com/Utkarshpurbey/LeetHun-v2/tree/master/0747-min-cost-climbing-stairs) |
 ## Prefix Sum
 |  |
 | ------- |
